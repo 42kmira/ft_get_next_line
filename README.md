@@ -28,3 +28,5 @@ A total of 4 characters copied.
 
 The time complexities of these two methods are on different levels. One is linear O(n) and the other is O(n<sup>2</sup>).
 Notice the strjoin method is a linear summation, hence O(n<sup>2</sup>).
+
+As always the code posted is straight from a git clone from what I turned in.
