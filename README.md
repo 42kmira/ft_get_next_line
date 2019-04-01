@@ -1,11 +1,17 @@
 # get_next_line
 
+<br>
+<img align="left" height="250" src="https://github.com/MrColour/get_next_line/blob/master/resources/Untitled%202.png" />
+<br>
+
 This is a rough draft of my get_next_line. It passed Moulinette with a score of 125.
 I say it is a rought draft because it isn't cleaned up as I would like. I also realized
 that some of the variables had become useless because I stored the linked_buffers
 in an array. I had wanted to have a two dimension linked list. One dimension for the current 
 line and another for the the other fd's, in which case I would need a pointer to the next_fd link, and
 a fd identifier.
+
+![Screenshot](https://github.com/MrColour/get_next_line/blob/master/resources/Untitled%203.png)
 
 What is the benifit of coding it this way?
 Performance.
