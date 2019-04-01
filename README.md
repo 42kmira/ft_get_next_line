@@ -11,7 +11,9 @@ in an array. I had wanted to have a two dimension linked list. One dimension for
 line and another for the the other fd's, in which case I would need a pointer to the next_fd link, and
 a fd identifier.
 
-![Screenshot](https://github.com/MrColour/get_next_line/blob/master/resources/Untitled%203.png)
+<br>
+<img height="125" src="https://github.com/MrColour/get_next_line/blob/master/resources/Untitled%203.png" />
+<br>
 
 What is the benifit of coding it this way?
 Performance.
